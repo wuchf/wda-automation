@@ -1,0 +1,3 @@
+使用wda（facebook 开源的webdriveragent）进行ios的UI自动化
+和pc端uiautomation是一个整体的项目
+从ios的主讲pad端发起，其他三个端按照具体的用例运行
